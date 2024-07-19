@@ -8,7 +8,7 @@ Integrar sistema externo de finanças domésticas a fim de minimizar o trabalho 
 
 ### 🔧 Tecnologia
 
-Esta API foi desenvolvida na linguegem Java utilizando o framework Spring Boot, onde foi utlizada do ecossitema Spring os starters Spring JPA e SWAGGER com uma banco de dados em memória H2.
+Esta API foi desenvolvida na linguegem Java utilizando o framework Spring Boot, onde foi utlizada do ecossitema Spring os starters Spring JPA e SWAGGER com um banco de dados em memória H2.
 
 ### 📋 Schemas
 
